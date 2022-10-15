@@ -1,5 +1,5 @@
 # Hi there 👋, I'm Yash
-I'm Yash, working in the field of IoT, Communication Technologies and Embedded Systems. I also enjoy backend development, iota of frontend and learning new tools and languages.
+I'm Yash, doing R&D in the field of IoT, Communication Technologies and Embedded Systems. I also enjoy backend development, iota of frontend and learning new software tools and languages.
 
 ## Skills and Experience
 * Python
@@ -7,6 +7,8 @@ I'm Yash, working in the field of IoT, Communication Technologies and Embedded S
 * Shell
 * Java
 * HTMLS, CSS, JS
+* Electrical
+* LoRa
 
 
 - 🔭 I’m currently working on this page. 
