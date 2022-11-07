@@ -11,7 +11,8 @@ I'm Yash, doing R&D in the field of IoT, Wireless Communication Technologies and
 * LoRa
 
 ## Examples of work
-<img src="https://github.com/yashfafola/Meshtastic-Data-Processing/blob/master/image/meshtastic_tester_GUI.png" width="256" />
+<a href="https://github.com/yashfafola/Meshtastic-Data-Processing"><img src="https://github.com/yashfafola/Meshtastic-Data-Processing/blob/master/image/meshtastic_tester_GUI.png" width="256" />
+<a href="https://github.com/yashfafola/Meshtastic-Data-Processing"><img src="[https://github.com/yashfafola/Meshtastic-Data-Processing/blob/master/image/meshtastic_tester_GUI.png](https://github.com/yashfafola/Meshtastic-Data-Processing/blob/master/image/meshtasticdataprocessing_GUI.png)" width="256" />
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/yashfafola)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/yashfafolawala/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/@YashFafola)  
 
