@@ -1,5 +1,5 @@
 # Hi there 👋, I'm Yash
-I'm Yash, doing R&D in the field of IoT, Communication Technologies and Embedded Systems. I also enjoy backend development, iota of frontend and learning new software tools and languages.
+I'm Yash, doing R&D in the field of IoT, Wireless Communication Technologies and Embedded Systems. I also enjoy backend development, iota of frontend and learning new software tools and languages.
 
 ## Skills and Experience
 * Python
@@ -7,11 +7,11 @@ I'm Yash, doing R&D in the field of IoT, Communication Technologies and Embedded
 * Shell
 * Java
 * HTMLS, CSS, JS
-* Electrical
+* Electrical/Electronics
 * LoRa
 
 
-- 🔭 I’m currently working on this page. 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/yashfafola)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/yashfafolawala/)  
 
 <!--
 **yashfafola/yashfafola** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
