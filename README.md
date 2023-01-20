@@ -1,9 +1,9 @@
 # Hi there 👋, I'm Yash
-I'm Yash, doing R&D in the field of IoT, Wireless Communication Technologies and Embedded Systems. I also enjoy embedded programming, software development and learning new tools and languages.
+I'm Yash, doing R&D in the field of microwaves, Wireless Communication Technologies. I also enjoy embedded programming, software development and learning new tools and technologies related to IoT.
 
 ## Skills and Experience
+* C, C++, Embedded C
 * Python
-* C, C++
 * Shell
 * Java
 * HTML, CSS, JS
@@ -18,13 +18,15 @@ I'm Yash, doing R&D in the field of IoT, Wireless Communication Technologies and
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/yashfafola)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/yashfafolawala/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/@YashFafola)
 
+- 🔭 I’m currently working on thesis which whill be finished by April 2023.
+- 🌱 I’m currently looking for a full-time employment in the field of IoT or embedded systems.
+
 <!--
 **yashfafola/yashfafola** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
