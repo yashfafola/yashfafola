@@ -1,5 +1,5 @@
 # Hi there 👋, I'm Yash
-doing R&D in the field of microwaves, Wireless Communication Technologies. I also enjoy embedded programming, software development and learning new tools and technologies related to IoT.
+doing R&D in the field of embedded systems, microwaves, and wireless communication technologies. I also enjoy embedded programming, software development and testing and learning new tools and technologies related to IoT.
 
 ## Skills
 * C, C++, Embedded C
@@ -7,6 +7,7 @@ doing R&D in the field of microwaves, Wireless Communication Technologies. I als
 * Shell
 * Java
 * HTML, CSS, JS
+* VBA
 * Ansys HFSS
 * Electrical/Electronics
 * LoRa
