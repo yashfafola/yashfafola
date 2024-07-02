@@ -17,6 +17,7 @@ doing R&D in the field of embedded systems, microwaves, and wireless communicati
 * Macros for HMI
 
 ## Examples of work 
+- [Master Thesis](https://github.com/yashfafola/MasterThesis): Machine-Learning Enhanced Microwave Ghost Imaging Using Electronically Reconfigurable Metasurface
 - [Master Project](https://github.com/yashfafola/Meshtastic-device-1.2.65.0adc5ce): Exploring the suitability of LoRa mesh for bike-to-pedestrian communication
 - [Bachelor thesis](https://github.com/yashfafola/BachelorThesis): Ethernet interface for electrical drive control
 - Other projects
